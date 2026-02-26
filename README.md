@@ -47,10 +47,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivprime94&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivprime94&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprime94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
