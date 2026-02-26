@@ -45,9 +45,9 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/shivprime94)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivprime94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivprime94&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivprime94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivprime94&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
