@@ -19,7 +19,7 @@
 
 Software Engineer at **Newton School**, building backend systems and folding AI tooling into everyday development. **IIT Kharagpur '25**. I like problems that end in something shipped — and I build a lot of it in the open.
 
-- 🔭 **Now** — backend engineering @ Newton School + AI-assisted developer tooling
+- 🔭 **Now** — Forward Deployed Farmer @ Newton School
 - 🌱 **Exploring** — LLM agents, tax/fintech automation, systems design
 - 💬 **Ask me about** — Python, TypeScript, backend architecture, competitive programming
 - 📫 **Reach me** — [shivprime94.me](https://www.shivprime94.me/)
