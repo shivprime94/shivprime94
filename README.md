@@ -3,7 +3,7 @@
 # Hi, I'm Shiv 👋
 
 <a href="https://github.com/shivprime94">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=SDE+%40+Newton+School+%C2%B7+IIT+KGP+'25;Backend+systems+%2B+AI+tooling;I+ship+things+that+solve+real+problems" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forward+Deployed+Farmer+%40+Newton+School+%C2%B7+IIT+KGP+'25;Backend+systems+%2B+AI+tooling;I+ship+things+that+solve+real+problems" alt="What I do" />
 </a>
 
 <p>
