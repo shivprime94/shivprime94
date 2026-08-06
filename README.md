@@ -43,8 +43,6 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/shivprime94)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprime94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
