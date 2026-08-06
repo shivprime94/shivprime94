@@ -48,23 +48,14 @@ Software Engineer at **Newton School**, **IIT Kharagpur '25**. I build in the op
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### [file-itr](https://github.com/shivprime94/file-itr): an agent that files Indian income-tax returns
-
-[![Stars](https://img.shields.io/github/stars/shivprime94/file-itr?style=flat-square&logo=github&color=f5c518)](https://github.com/shivprime94/file-itr/stargazers)
-[![Skill Bundle](https://github.com/shivprime94/file-itr/actions/workflows/skill-bundle.yml/badge.svg)](https://github.com/shivprime94/file-itr/actions/workflows/skill-bundle.yml)
-[![Engine Tests](https://github.com/shivprime94/file-itr/actions/workflows/engine-tests.yml/badge.svg)](https://github.com/shivprime94/file-itr/actions/workflows/engine-tests.yml)
-[![License: MIT](https://img.shields.io/github/license/shivprime94/file-itr?style=flat-square)](https://github.com/shivprime94/file-itr/blob/main/LICENSE)
-
-An agent **skill** plus a separately tested **Python tax engine** that prepares and e-files Indian ITRs (1/2/3/4) under **both the old and new regimes**. It reconciles salary, freelance/creator income, and capital gains into a correct, fully-verified return, and compares regimes to find the lowest *legal* tax. Every statutory rule is citation-backed and **fails loud rather than guessing**.
-
-## 📌 Also Building
-
+- **[file-itr](https://github.com/shivprime94/file-itr)** · agent + tested Python engine that files Indian income-tax returns [![Stars](https://img.shields.io/github/stars/shivprime94/file-itr?style=flat-square&logo=github&color=f5c518)](https://github.com/shivprime94/file-itr/stargazers)
 - **[Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms)** · community CP solutions
 - **[Text-To-SQL-Generator](https://github.com/shivprime94/Text-To-SQL-Generator)** · natural language to SQL
 - **[InvoiceGPT](https://github.com/shivprime94/InvoiceGPT)** · AI invoice parsing
 - **[JD-To-Resume-Match](https://github.com/shivprime94/JD-To-Resume-Match)** · resume and JD matching
+- **[yt-video-summarizer](https://github.com/shivprime94/yt-video-summarizer)** · YouTube summarizer
 - **[tryon](https://github.com/shivprime94/tryon)** · virtual try-on app
 
 ## 📊 GitHub Stats
@@ -89,11 +80,3 @@ An agent **skill** plus a separately tested **Python tax engine** that prepares 
 [![X](https://img.shields.io/badge/-@neembu__paani31-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/neembu_paani31)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivshankar.kanaujiya.iitkgp@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivprime94)
-
----
-
-<div align="center">
-
-*"Passionate to build cool, working stuff."* I ship things that solve real problems.
-
-</div>
