@@ -37,17 +37,15 @@
 
 ## What I'm Building
 
-- **AI tools** – LLM-powered apps: SQL generation, document processing, video summarization
-- **Full-stack apps** – MERN stack and Django REST API applications solving real-world problems
-- **Developer tooling** – CLI utilities and automation scripts
+- **AI-powered tools** – LLM apps that do real work: natural-language → SQL, document/invoice parsing, video summarization
+- **Full-stack products** – MERN and Django REST backends that solve real problems, not just demos
+- **Developer tooling** – CLIs, agents, and automation that kill repetitive work
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/shivprime94)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivprime94&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprime94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
