@@ -2,7 +2,7 @@
 
 # Hi, I'm Shiv 👋
 
-📍 **India** | 🎓 **IIT Kharagpur '25** | 🚀 **Forward Deployed Farmer**
+🚀 **Forward Deployed Farmer @ Newton School** | 🎓 **IIT Kharagpur '25** | 📍 **India**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shivprime94&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/shivprime94)
 
