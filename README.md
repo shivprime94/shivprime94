@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About
 
-Software Engineer at **Newton School**, building backend systems and folding AI tooling into everyday development. **IIT Kharagpur '25**. I like problems that end in something shipped — and I build a lot of it in the open.
+Software Engineer at **Newton School**, **IIT Kharagpur '25**. I build in the open.
 
-- 🔭 **Now** — Forward Deployed Farmer @ Newton School
-- 🌱 **Exploring** — LLM agents, tax/fintech automation, systems design
-- 💬 **Ask me about** — Python, TypeScript, backend architecture, competitive programming
-- 📫 **Reach me** — [shivprime94.me](https://www.shivprime94.me/)
+- **Now:** Forward Deployed Farmer @ Newton School
+- **Exploring:** LLMs, systems design, infrastructure
+- **Ask me about:** Python, TypeScript, backend architecture, competitive programming
+- **Reach me:** [shivprime94.vercel.app](https://shivprime94.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -50,26 +50,27 @@ Software Engineer at **Newton School**, building backend systems and folding AI 
 
 ## 🚀 Featured Project
 
-### [file-itr](https://github.com/shivprime94/file-itr) — an agent that files Indian income-tax returns
+### [file-itr](https://github.com/shivprime94/file-itr): an agent that files Indian income-tax returns
 
 [![Stars](https://img.shields.io/github/stars/shivprime94/file-itr?style=flat-square&logo=github&color=f5c518)](https://github.com/shivprime94/file-itr/stargazers)
 [![Skill Bundle](https://github.com/shivprime94/file-itr/actions/workflows/skill-bundle.yml/badge.svg)](https://github.com/shivprime94/file-itr/actions/workflows/skill-bundle.yml)
 [![Engine Tests](https://github.com/shivprime94/file-itr/actions/workflows/engine-tests.yml/badge.svg)](https://github.com/shivprime94/file-itr/actions/workflows/engine-tests.yml)
 [![License: MIT](https://img.shields.io/github/license/shivprime94/file-itr?style=flat-square)](https://github.com/shivprime94/file-itr/blob/main/LICENSE)
 
-An agent **skill** plus a separately tested **Python tax engine** that prepares and e-files Indian ITRs (1/2/3/4) under **both the old and new regimes** — reconciling salary, freelance/creator income, and capital gains into a correct, fully-verified return, and comparing regimes to find the lowest *legal* tax. Every statutory rule is citation-backed and **fails loud rather than guessing**.
+An agent **skill** plus a separately tested **Python tax engine** that prepares and e-files Indian ITRs (1/2/3/4) under **both the old and new regimes**. It reconciles salary, freelance/creator income, and capital gains into a correct, fully-verified return, and compares regimes to find the lowest *legal* tax. Every statutory rule is citation-backed and **fails loud rather than guessing**.
 
 ## 📌 Also Building
 
-- 🧩 **[Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms)** — community-driven solutions across competitive-programming platforms [![Stars](https://img.shields.io/github/stars/shivprime94/Data-Structure-Algorithms?style=flat-square&logo=github&color=f5c518)](https://github.com/shivprime94/Data-Structure-Algorithms/stargazers)
-- ⚙️ **Backend systems @ Newton School** — services that support students learning to code
-- 🔧 **Developer tooling** — small, sharp CLI utilities and automation
+- **[Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms)** · community CP solutions
+- **[Text-To-SQL-Generator](https://github.com/shivprime94/Text-To-SQL-Generator)** · natural language to SQL
+- **[InvoiceGPT](https://github.com/shivprime94/InvoiceGPT)** · AI invoice parsing
+- **[JD-To-Resume-Match](https://github.com/shivprime94/JD-To-Resume-Match)** · resume and JD matching
+- **[tryon](https://github.com/shivprime94/tryon)** · virtual try-on app
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivprime94&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprime94&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=shivprime94&theme=tokyonight&hide_border=true" alt="GitHub streak and contribution stats" />
 </div>
 
 <!-- Snake eating the contribution graph — regenerated daily by .github/workflows/snake.yml -->
@@ -83,7 +84,7 @@ An agent **skill** plus a separately tested **Python tax engine** that prepares 
 
 ## 🤝 Connect
 
-[![Website](https://img.shields.io/badge/-shivprime94.me-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.shivprime94.me/)
+[![Website](https://img.shields.io/badge/-shivprime94.vercel.app-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://shivprime94.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiv-prime94)
 [![X](https://img.shields.io/badge/-@neembu__paani31-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/neembu_paani31)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivshankar.kanaujiya.iitkgp@gmail.com)
@@ -93,15 +94,6 @@ An agent **skill** plus a separately tested **Python tax engine** that prepares 
 
 <div align="center">
 
-*"Passionate to build cool, working stuff."* — I ship things that solve real problems.
-
-<details>
-<summary>✨ Fun facts</summary>
-
-- 🎓 IIT Kharagpur, Class of 2025
-- 🧠 Happiest debugging a hard backend problem
-- 🤖 Living at the intersection of AI and software engineering
-
-</details>
+*"Passionate to build cool, working stuff."* I ship things that solve real problems.
 
 </div>
